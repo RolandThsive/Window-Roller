@@ -30,12 +30,12 @@ Each window pane weighs **10 kg** and rides on two symmetrically placed rollers,
 
 ## 🔧 Features
 
-- 🛡️ **Reinforced where the originals failed** — around the screws and the pulley holder
-- ⚙️ **SKF 626-2RSH sealed bearing** for smooth, quiet, long-lasting rolling
-- 🔩 **Hardened stainless-steel dowel pins** as axles instead of plastic pegs
-- 🌀 **Spring-loaded, retractable pulley** for easy installation and constant contact with the track
-- 🧮 **FEM-verified** in FreeCAD and ParaView — under 40 µm of deflection at full static load
-- 🧱 Printed solid — **PETG, 100% infill**
+- **Reinforced where the originals failed** — around the screws and the pulley holder
+- **SKF 626-2RSH sealed bearing** for smooth, quiet, long-lasting rolling
+- **Hardened stainless-steel dowel pins** as axles instead of plastic pegs
+- **Spring-loaded, retractable pulley** for easy installation and constant contact with the track
+- **FEM-verified** in FreeCAD and ParaView — under 40 µm of deflection at full static load
+- Printed solid — **PETG, 100% infill**
 
 ---
 
@@ -84,7 +84,7 @@ The raw CalculiX results (`.vtu`) are in [`FreeCAD Files/Results_VTK_FREECAD/`](
 ## 📖 Instructions
 
 For the full write-up, FEM results and the interactive 3D model, head to the official blog post:
-👉 [Engineered Window Rollers](https://ro-h-bots.blogspot.com/2026/07/engineered-window-rollers.html)
+[Engineered Window Rollers](https://ro-h-bots.blogspot.com/2026/07/engineered-window-rollers.html)
 
 ### 🖨️ Printing
 
