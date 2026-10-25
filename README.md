@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪟 Engineered Window Rollers
+# Engineered Window Rollers
 ### *FEM-verified replacement rollers for aluminium-profile sliding windows*
 
 <img src="https://RolandThsive.github.io/FeaturedImages/8203012936776499720.jpg" alt="Engineered Window Rollers" width="720"/>
@@ -18,7 +18,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 A project by [@RolandThsive](https://ro-h-bots.blogspot.com/p/about-me.html).
 
@@ -28,7 +28,7 @@ Each window pane weighs **10 kg** and rides on two symmetrically placed rollers,
 
 ---
 
-## 🔧 Features
+## Features
 
 - **Reinforced where the originals failed** — around the screws and the pulley holder
 - **SKF 626-2RSH sealed bearing** for smooth, quiet, long-lasting rolling
@@ -39,7 +39,7 @@ Each window pane weighs **10 kg** and rides on two symmetrically placed rollers,
 
 ---
 
-## 📸 Gallery
+## Gallery
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Each window pane weighs **10 kg** and rides on two symmetrically placed rollers,
 
 ---
 
-## 🧮 Finite Element Analysis
+## Finite Element Analysis
 
 Both printed load-bearing parts were analysed under static load in **FreeCAD FEM** (CalculiX) and post-processed in **ParaView**.
 
@@ -81,12 +81,12 @@ The raw CalculiX results (`.vtu`) are in [`FreeCAD Files/Results_VTK_FREECAD/`](
 
 ---
 
-## 📖 Instructions
+## Instructions
 
 For the full write-up, FEM results and the interactive 3D model, head to the official blog post:
 [Engineered Window Rollers](https://ro-h-bots.blogspot.com/2026/07/engineered-window-rollers.html)
 
-### 🖨️ Printing
+### Printing
 
 | Setting | Value |
 | :--- | :--- |
@@ -96,7 +96,7 @@ For the full write-up, FEM results and the interactive 3D model, head to the off
 
 The printable parts are in [`Printables/`](Printables) as STEP files — import them straight into your slicer.
 
-### 🪛 Installing
+### Installing
 
 1. Retract the pulley against its spring.
 2. Slide the roller into place and screw it in from the side.
@@ -107,7 +107,7 @@ The printable parts are in [`Printables/`](Printables) as STEP files — import 
 
 ---
 
-## 🛠️ Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 *Per roller.*
 
@@ -127,7 +127,7 @@ The printable parts are in [`Printables/`](Printables) as STEP files — import 
 
 ---
 
-## 🧰 Tools Required
+## Tools Required
 
 | Tool | Description |
 | :---: | :--- |
@@ -139,7 +139,7 @@ The printable parts are in [`Printables/`](Printables) as STEP files — import 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Window-Roller/
@@ -159,7 +159,7 @@ Window-Roller/
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 * **Blog:** [ro-h-bots.blogspot.com](https://ro-h-bots.blogspot.com/)
 * **Insta:** [@ro_h_bots](https://www.instagram.com/ro_h_bots?igsh=cDNkcnNpYnB5aWR1)
 
