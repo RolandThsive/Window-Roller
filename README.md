@@ -3,7 +3,7 @@
 # Engineered Window Rollers
 ### *FEM-verified replacement rollers for aluminium-profile sliding windows*
 
-<img src="https://RolandThsive.github.io/FeaturedImages/8203012936776499720.jpg" alt="Engineered Window Rollers" width="720"/>
+<img src="https://RolandThsive.github.io/Assets/PagesAndPosts_Assets/FeaturedImages/8203012936776499720.jpg" alt="Engineered Window Rollers" width="720"/>
 
 [![Blog](https://img.shields.io/badge/Build%20Guide-ro--h--bots-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ro-h-bots.blogspot.com/2026/07/engineered-window-rollers.html)
 [![Instagram](https://img.shields.io/badge/@ro__h__bots-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ro_h_bots)
